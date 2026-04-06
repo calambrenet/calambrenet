@@ -7,7 +7,7 @@ Mi primer software fue un pequeño juego bastante feo hecho en Pascal...
 
 ---
 
-### 🛠️ Stack principal
+### Stack principal
 
 ```
 Backend        Python · Django · FastAPI · DRF
@@ -19,7 +19,7 @@ Bases de datos PostgreSQL · MySQL · MongoDB · Redis · SQLite
 Herramientas   Git · Linux · Home Assistant
 ```
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
 | Proyecto | Descripción |
 |----------|-------------|
@@ -30,7 +30,7 @@ Herramientas   Git · Linux · Home Assistant
 | **[jluiscastro.com](https://www.jluiscastro.com)** | Mi web personal y portfolio. |
 
 
-### 📫 Contacto
+### Contacto
 
 [![Web](https://img.shields.io/badge/happyandroids.com-000?style=flat-square&logo=safari&logoColor=white)](https://www.happyandroids.com)
 [![Portfolio](https://img.shields.io/badge/jluiscastro.com-444?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jluiscastro.com)
