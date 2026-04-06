@@ -14,7 +14,7 @@ Sistemas       Rust · Linux · Desarrollo de sistemas
 Frontend       React · Next.js · Tailwind CSS
 Infra / DevOps Docker · AWS (EC2, S3, RDS) · Nginx · CI/CD
 IA             LLMs · Tool Use · Automatización con n8n
-Bases de datos PostgreSQL · Redis · SQLite
+Bases de datos PostgreSQL · MySQL · MongoDB · Redis · SQLite
 Herramientas   Git · Linux · Home Assistant
 ```
 
@@ -24,17 +24,13 @@ Herramientas   Git · Linux · Home Assistant
 |----------|-------------|
 | **[sshr](https://github.com/calambrenet/sshr)** | Gestor de conexiones SSH moderno, escrito en Rust. |
 | **[forky](https://github.com/calambrenet/forky)** | Cliente Git multiplataforma inspirado en Fork, construido con TypeScript. |
-| **[OpenJornada](https://openjornada.com)** | SaaS open-source de control horario digital para empresas españolas. Cumplimiento normativo del registro de jornada. |
 | **[HappyAndroids](https://www.happyandroids.com)** | Consultoría IT y desarrollo de producto. Mi empresa. |
 | **[Codefriends](https://www.codefriends.es)** | Comunidad y recursos para desarrolladores. |
 | **[jluiscastro.com](https://www.jluiscastro.com)** | Mi web personal y portfolio. |
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=calambrenet&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calambrenet&layout=compact&theme=default&hide_border=true&langs_count=8" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=calambrenet&theme=flat&no-frame=true&column=4&margin-w=15)](https://github.com/calambrenet)
 
 ### 📫 Contacto
 
@@ -45,4 +41,4 @@ Herramientas   Git · Linux · Home Assistant
 
 ---
 
-<sub>*«El mejor código es el que no necesitas escribir.»*</sub>
+<sub>*«Lo siento, Dave. Me temo que no puedo hacer eso.»*</sub>
