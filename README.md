@@ -3,6 +3,7 @@
 **Founder @ [HappyAndroids](https://happyandroids.com)** · Consultoría IT & desarrollo de producto desde Málaga 🇪🇸
 
 Llevo más de 20 años construyendo software — desde backends robustos en Python hasta infraestructura cloud con Docker y AWS. Actualmente enfocado en producto propio y automatización.
+Mi primer software fue un pequeño juego bastante feo hecho en Pascal...
 
 ---
 
