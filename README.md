@@ -28,9 +28,6 @@ Herramientas   Git · Linux · Home Assistant
 | **[Codefriends](https://www.codefriends.es)** | Comunidad y recursos para desarrolladores. |
 | **[jluiscastro.com](https://www.jluiscastro.com)** | Mi web personal y portfolio. |
 
-### 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=calambrenet&theme=flat&no-frame=true&column=4&margin-w=15)](https://github.com/calambrenet)
 
 ### 📫 Contacto
 
