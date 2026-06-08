@@ -23,6 +23,7 @@ Herramientas   Git · Linux · Home Assistant
 
 | Proyecto | Descripción |
 |----------|-------------|
+| **[Solera Linux](https://github.com/calambrenet/solera)** | Distribución Linux basada en Arch, inmutable y atómica con escritorio GNOME. |
 | **[sshr](https://github.com/calambrenet/sshr)** | Gestor de conexiones SSH moderno, escrito en Rust. |
 | **[forky](https://github.com/calambrenet/forky)** | Cliente Git multiplataforma inspirado en Fork, construido con TypeScript. |
 | **[HappyAndroids](https://www.happyandroids.com)** | Consultoría IT y desarrollo de producto. Mi empresa. |
