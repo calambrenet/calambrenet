@@ -1,0 +1,57 @@
+<div align="right">
+
+[🇬🇧 English](./README.md) · 🇪🇸 Español
+
+</div>
+
+# Hola, soy José Luis Castro 👋
+
+**Founder @ [HappyAndroids](https://happyandroids.com)** · **CTO @ [Codefriends](https://www.codefriends.es)** · Consultoría IT & desarrollo de producto desde Málaga 🇪🇸
+
+Llevo más de 20 años construyendo software — desde backends robustos en Python hasta infraestructura cloud con Docker, AWS y Kubernetes. Actualmente enfocado en productos propios, IA y en construir **Solera Linux**, una distribución inmutable y atómica centrada en la soberanía digital.
+
+Mi primer software fue un pequeño juego bastante feo hecho en Pascal... y a los 18 acabé trabajando en la industria del videojuego español, en *Blade: The Edge of Darkness*.
+
+> 📬 **Disponible para proyectos freelance y consultoría** (arquitectura, backend, IA, infraestructura). Escríbeme: [info@happyandroids.com](mailto:info@happyandroids.com)
+
+---
+
+### Stack principal
+
+```
+Backend        Python · Django · FastAPI · DRF
+Sistemas       Rust · Desarrollo de sistemas · Linux
+Frontend       React · React Native · Next.js · Tailwind CSS
+Infra / DevOps Docker · Kubernetes · AWS (EC2, S3, RDS) · Nginx · CI/CD
+IA             LLMs · Tool Use · Automatización con n8n
+Bases de datos PostgreSQL · MySQL · MongoDB · Redis · SQLite
+```
+
+### Proyectos destacados
+
+| Proyecto | Descripción |
+| --- | --- |
+| **[Solera Linux](https://github.com/calambrenet/solera)** | Distribución Linux basada en Arch, inmutable y atómica, enfocada en soberanía digital y entornos enterprise. Escritorio GNOME, actualizaciones atómicas. |
+| **[sshr](https://github.com/calambrenet/sshr)** | Gestor de conexiones SSH moderno, escrito en Rust. |
+| **[forky](https://github.com/calambrenet/forky)** | Cliente Git multiplataforma inspirado en Fork, construido con TypeScript. |
+| **[HappyAndroids](https://www.happyandroids.com)** | Consultoría IT y desarrollo de producto. Mi empresa. |
+| **[Codefriends](https://www.codefriends.es)** | Comunidad y recursos para desarrolladores. |
+| **[jluiscastro.com](https://www.jluiscastro.com)** | Mi web personal y portfolio. |
+
+### Estadísticas de GitHub
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=calambrenet&show_icons=true&hide_border=true&count_private=true&theme=dark" alt="Estadísticas de GitHub de calambrenet" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=calambrenet&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="Lenguajes más usados" />
+</p>
+
+### Contacto
+
+[![Web](https://img.shields.io/badge/happyandroids.com-1e2327?style=flat-square&logo=safari&logoColor=white)](https://www.happyandroids.com)
+[![Portfolio](https://img.shields.io/badge/jluiscastro.com-1e2327?style=flat-square&logo=googlechrome&logoColor=white)](https://www.jluiscastro.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jluiscastro)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:info@happyandroids.com)
+
+---
+
+*«Lo siento, Dave. Me temo que no puedo hacer eso.»*
